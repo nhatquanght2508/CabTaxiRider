@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    app:cardElevation="10dp"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textSize="30sp"
+            android:layout_gravity="center"
+            android:textColor="@color/wallet_holo_blue_light"
+            android:textAlignment="center"
+            android:text="Các chính sách và nội quy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Nội quy 1 : Tối hôm nay anh có gì bận tâm ,Mà sao hỏi anh vẫn cứ chối ,Không muốn nói cứ ngồi lặng câm "
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Nội quy 2 : Tối hôm nay anh có gì bận tâm ,Mà sao hỏi anh vẫn cứ chối ,Không muốn nói cứ ngồi lặng câm "
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Nội quy 3 : Tối hôm nay anh có gì bận tâm ,Mà sao hỏi anh vẫn cứ chối ,Không muốn nói cứ ngồi lặng câm "
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Nội quy 4 : Tối hôm nay anh có gì bận tâm ,Mà sao hỏi anh vẫn cứ chối ,Không muốn nói cứ ngồi lặng câm "
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Nội quy 5 : Tối hôm nay anh có gì bận tâm ,Mà sao hỏi anh vẫn cứ chối ,Không muốn nói cứ ngồi lặng câm "
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
